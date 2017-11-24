@@ -14,7 +14,19 @@ Manipulando os pixels de uma imagem.
 
 ### [Aula03](Aula03)
 
-Transformações de imagens (rotação, redimensionamento, cortes e espelhamento)
+Transformações de imagens (rotação, redimensionamento, cortes e espelhamento).
+
+### [Aula04](Aula04)
+
+Aplicando operações aritiméticas entre imagens e matrizes.
+
+### [Aula05](Aula05)
+
+Aplicação de operações lógicas, utilização de máscaras e compreensão dos espaços de cores.
+
+### [Aula06](Aula06)
+
+Histogramas e equalização de histogramas.
 
 ## Author
 
