@@ -1,7 +1,9 @@
 import numpy as np
 import cv2
 
-cap = cv2.VideoCapture('../videos/carros1.mp4')
+cap = cv2.VideoCapture('../videos/carros2.avi')
+
+print (cv2.getBuildInformation())
 
 while(cap.isOpened()):
     ret, frame = cap.read()

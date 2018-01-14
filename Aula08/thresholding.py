@@ -11,7 +11,7 @@ cv2.imshow('Imagem original', imagem)
 _, binarizacao = cv2.threshold(imagem, 155, 255, cv2.THRESH_BINARY)
 #Aplicando binarização invertida
 _, binarizacao_inv = cv2.threshold(imagem, 155, 255, cv2.THRESH_BINARY_INV)
-#Aplicando binarização invertida
+#Aplicando binarização otsu
 _, binarizacao_otsu = cv2.threshold(imagem, 155, 255, cv2.THRESH_OTSU)
 
 cv2.imshow("Binarizacao simples", binarizacao)

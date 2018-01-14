@@ -28,6 +28,26 @@ Aplicação de operações lógicas, utilização de máscaras e compreensão do
 
 Histogramas e equalização de histogramas.
 
+### [Aula07](Aula07)
+
+Blurring images.   
+
+### [Aula08](Aula08)
+
+Binarização de imagens( simples, invertida e otsu ).
+
+### [Aula09](Aula09)
+
+Detecção de bordas.
+
+### [Aula10](Aula10)
+
+Introdução a processamento de vídeos.
+
+### [Aula11](Aula11)
+
+Detecção de faces.
+
 ## Author
 
 [![Vinicius Campos](https://avatars.githubusercontent.com/Vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](http://lattes.cnpq.br/4806707968253342)<br />[👀](https://github.com/vinihcampos/concurrent-programming/commits?author=Vinihcampos)
