@@ -50,7 +50,7 @@ Detecção de faces.
 
 ## Author
 
-[![Vinicius Campos](https://avatars.githubusercontent.com/Vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](http://lattes.cnpq.br/4806707968253342)<br />[👀](https://github.com/vinihcampos/concurrent-programming/commits?author=Vinihcampos)
+[![Vinicius Campos](https://avatars.githubusercontent.com/Vinihcampos?s=100)<br /><sub>Vinicius Campos</sub>](http://lattes.cnpq.br/4806707968253342)<br />[👀](https://github.com/vinihcampos/introducao-opencv/commits?author=Vinihcampos)
 | :---: | 
 
 
